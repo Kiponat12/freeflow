@@ -10,6 +10,9 @@
   gtag('config', 'G-JCF6LYDHDV');
 </script>
 
+SEO ACTIVE
+
+
 Product 001 : SURFSKATE CX7 แบรนด์ UNCLE : 2970 Baht
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

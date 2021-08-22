@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 {% seo %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

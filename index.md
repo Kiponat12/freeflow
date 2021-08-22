@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: FreeFlow Home
 ---
 
 KIPONAT12/SANSAN

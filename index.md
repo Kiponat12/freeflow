@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-KIPONAT12
-
-SANSAN
+KIPONAT12/SANSAN
 
 Product 001 : SURFSKATE CX7 แบรนด์ UNCLE : 2970 Baht
 
